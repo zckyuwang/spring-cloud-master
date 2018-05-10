@@ -67,7 +67,3 @@
 - 2、完成SpringBootAdmin业务模块的运行监控，及Eureka服务运行，满足各业务基础服务的注册、发现功能
 - 3、可通过Front-app端，借助Feign组件发起login/signup等功能的 简单测试运行。
 - 下一版本，将基于此版本之上，继续完善完整的购物实现，包括简单的页面、api管理/调用等等。
-
-
-# 关注更多内容
-![image](https://github.com/backkoms/simplemall/blob/develop/getqrcode.jpeg?raw=true)
