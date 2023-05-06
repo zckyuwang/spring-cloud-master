@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T07:38:35.875Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="zc7mA5ZaEvH5wt3uwuKa" version="21.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-06T07:39:06.989Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="zK0E1Q8iuUqdhhCrs0JE" version="21.2.9" type="github" pages="4">
   <diagram name="第 1 页" id="i_k493CSENGCRLbhp6Or">
     <mxGraphModel dx="788" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,6 +184,9 @@
         </mxCell>
         <mxCell id="VUlxHoVYBvkaAEtM16JE-5" value="配料领料" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="625" y="98" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VUlxHoVYBvkaAEtM16JE-7" value="排产" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="78" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
