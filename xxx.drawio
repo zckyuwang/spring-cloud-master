@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T10:41:13.713Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="uq4NZmk_gIjeSO8qNx0o" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T10:44:53.577Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="qGbQF0tPvZHP08JytpgP" version="21.3.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="788" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;生产成本单价&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87sOYWtt1EghXxEH-w2J-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="87sOYWtt1EghXxEH-w2J-2" target="87sOYWtt1EghXxEH-w2J-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-2" value="生产成本内部结算价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="240" width="120" height="60" as="geometry" />
@@ -55,16 +58,7 @@
         <mxCell id="87sOYWtt1EghXxEH-w2J-27" value="新增或者修改" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87sOYWtt1EghXxEH-w2J-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="269.5" as="sourcePoint" />
-            <mxPoint x="560" y="269.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="480" y="269.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="87sOYWtt1EghXxEH-w2J-29" value="产品成名预估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="87sOYWtt1EghXxEH-w2J-29" value="产品成本预估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-31" value="BOM价格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -99,6 +93,9 @@
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-51" value="价格1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="445" y="408" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="87sOYWtt1EghXxEH-w2J-54" value="生产成本预估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
