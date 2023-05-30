@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T11:17:59.706Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="4ja98Vsgq8KPrL8nxGzP" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T11:18:23.630Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="2iRZX5mvBkB6WQT8ZAck" version="21.3.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1615" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="87sOYWtt1EghXxEH-w2J-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;原生产成本单价&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;/&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;产品合格率&lt;/font&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="87sOYWtt1EghXxEH-w2J-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;新增原生产成本单价&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;/&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;产品合格率&lt;/font&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="87sOYWtt1EghXxEH-w2J-18" target="87sOYWtt1EghXxEH-w2J-20">
