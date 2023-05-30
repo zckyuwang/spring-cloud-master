@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T10:45:11.352Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="0Uc5106fUZ6V5is1swxJ" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T10:45:32.260Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="VaciTs3idOSOtTXpbFFQ" version="21.3.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="788" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,10 +26,10 @@
           <mxGeometry x="300" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-10" value="物料" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-11" value="工艺路线" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -65,7 +65,7 @@
           <mxGeometry x="560" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-31" value="BOM价格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-33" value="SMT辅料价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
@@ -84,8 +84,8 @@
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="140" as="sourcePoint" />
-            <mxPoint x="370" y="230" as="targetPoint" />
+            <mxPoint x="445" y="140" as="sourcePoint" />
+            <mxPoint x="325" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
