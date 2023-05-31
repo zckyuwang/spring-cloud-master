@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T02:26:03.390Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="HuxrP7ge2M8Bl82cDDIW" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T02:39:27.494Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="DCIZinZ_M6LILeCW5Zpv" version="21.3.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1615" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,13 +7,13 @@
         <mxCell id="87sOYWtt1EghXxEH-w2J-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="87sOYWtt1EghXxEH-w2J-0" target="87sOYWtt1EghXxEH-w2J-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="87sOYWtt1EghXxEH-w2J-0" value="工序价格档案" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="87sOYWtt1EghXxEH-w2J-0" value="工序价格档案&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Calibri&quot;&gt;lsdmfg_procedureprice&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="87sOYWtt1EghXxEH-w2J-1" target="87sOYWtt1EghXxEH-w2J-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="87sOYWtt1EghXxEH-w2J-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;生产成本单价&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="87sOYWtt1EghXxEH-w2J-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;最终生产成本单价&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="87sOYWtt1EghXxEH-w2J-2" target="87sOYWtt1EghXxEH-w2J-29" edge="1">
@@ -22,7 +22,7 @@
         <mxCell id="87sOYWtt1EghXxEH-w2J-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="87sOYWtt1EghXxEH-w2J-2" target="87sOYWtt1EghXxEH-w2J-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="87sOYWtt1EghXxEH-w2J-2" value="生产成本内部结算价" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="87sOYWtt1EghXxEH-w2J-2" value="生产成本内部结算价&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Calibri&quot;&gt;producecost_inner&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-10" value="物料" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -46,7 +46,7 @@
         <mxCell id="87sOYWtt1EghXxEH-w2J-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="87sOYWtt1EghXxEH-w2J-18" target="87sOYWtt1EghXxEH-w2J-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="87sOYWtt1EghXxEH-w2J-18" value="委外订单阶梯价" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="87sOYWtt1EghXxEH-w2J-18" value="委外订单阶梯价&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Calibri&quot;&gt;price bacthlevel&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-20" value="委外订单" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -61,7 +61,7 @@
         <mxCell id="87sOYWtt1EghXxEH-w2J-27" value="新增或者修改" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="414" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87sOYWtt1EghXxEH-w2J-29" value="产品成本预估" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="87sOYWtt1EghXxEH-w2J-29" value="产品成本预估&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Calibri&quot;&gt;productcost_esti&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-31" value="BOM价格" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -97,7 +97,7 @@
         <mxCell id="87sOYWtt1EghXxEH-w2J-51" value="计算完单价同步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="415" y="408" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="87sOYWtt1EghXxEH-w2J-54" value="生产成本预估" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="87sOYWtt1EghXxEH-w2J-54" value="生产成本预估&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Calibri&quot;&gt;producecost_esti&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="87sOYWtt1EghXxEH-w2J-57" value="SMT工时&lt;font style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot; face=&quot;宋体&quot;&gt;取&lt;/font&gt;&lt;font style=&quot;font-size: 10.5pt; background-color: initial;&quot; face=&quot;Calibri&quot;&gt;SMT3&lt;/font&gt;&lt;font style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot; face=&quot;宋体&quot;&gt;线投板站&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
