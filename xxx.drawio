@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T07:02:11.732Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="K0PcXBI58M9_QNJG1QHt" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T08:17:29.193Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="aarU0m0S01aHnm8jZXRL" version="21.3.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="717" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -82,18 +82,26 @@
         <mxCell id="87sOYWtt1EghXxEH-w2J-54" value="生产成本预估&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Calibri&quot;&gt;producecost_esti&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cR9f6QyYtA-wMwiAuED0-2" value="子表根据对应工序新增辅料价格（类似工序）" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cR9f6QyYtA-wMwiAuED0-2" value="子表根据对应工序新增辅料价格（类似工序）" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="230" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cR9f6QyYtA-wMwiAuED0-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;0.新增辅料价格档案&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;1.生产成本内部结算价&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;CreateProduceCostInner修改新增辅料价格判断和产品合格率判断&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;2.生产成本内部结算价表头添加产品合格率字段&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;3.生产成本内部结算价&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;CreateProduceCostInner计算完最终生产成本单价后构造委外订单阶梯价VO自动同步新增修改委外订单阶梯价&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;4.批量重新计算生产成本结算价复用&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;CreateProduceCostInner&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;5.&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;最终生产成本单价影响产品成本预估和生产成本预估计算&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cR9f6QyYtA-wMwiAuED0-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;0.新增辅料价格档案&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;1.生产成本内部结算价&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;CreateProduceCostInner修改新增辅料价格判断和产品合格率判断&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;2.生产成本内部结算价表头添加产品合格率字段&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;3.生产成本内部结算价&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;CreateProduceCostInner计算完最终生产成本单价后构造委外订单阶梯价VO自动同步新增修改委外订单阶梯价&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;4.批量重新计算生产成本结算价复用&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;CreateProduceCostInner&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;5.&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;最终生产成本单价影响产品成本预估和生产成本预估计算&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="25" y="480" width="395" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="cR9f6QyYtA-wMwiAuED0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR9f6QyYtA-wMwiAuED0-4" target="87sOYWtt1EghXxEH-w2J-2">
+        <mxCell id="cR9f6QyYtA-wMwiAuED0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR9f6QyYtA-wMwiAuED0-4" target="87sOYWtt1EghXxEH-w2J-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cR9f6QyYtA-wMwiAuED0-4" value="辅料价格档案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cR9f6QyYtA-wMwiAuED0-4" value="辅料价格档案" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zubNCy2PwGTTKTLK2X6R" name="销售spr">
+    <mxGraphModel dx="788" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
