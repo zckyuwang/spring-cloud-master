@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T07:03:00.554Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.125 Safari/537.36" etag="DzCoLGg-Q8NIfKTsgBvE" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T07:05:23.166Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.125 Safari/537.36" etag="5KK8p6HqtLWBk1iEOUeh" version="21.3.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="sim">
     <mxGraphModel dx="788" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="J-wKOYBQHU6B0EthesqR-15" value="同步逻辑" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="745" width="305" height="305" as="geometry" />
-        </mxCell>
         <mxCell id="J-wKOYBQHU6B0EthesqR-0" value="wms定时回写入库单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="745" width="120" height="60" as="geometry" />
         </mxCell>
@@ -37,19 +34,16 @@
         <mxCell id="J-wKOYBQHU6B0EthesqR-9" value="校验实收数量是否满足条件" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="760" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J-wKOYBQHU6B0EthesqR-11" value="同步cmp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="940" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="J-wKOYBQHU6B0EthesqR-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="799.5" as="sourcePoint" />
             <mxPoint x="640" y="799.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J-wKOYBQHU6B0EthesqR-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="J-wKOYBQHU6B0EthesqR-11">
+        <mxCell id="J-wKOYBQHU6B0EthesqR-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="850" as="sourcePoint" />
-            <mxPoint x="730" y="850" as="targetPoint" />
+            <mxPoint x="670" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J-wKOYBQHU6B0EthesqR-16" value="wms定时回写出库单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -85,17 +79,14 @@
         <mxCell id="J-wKOYBQHU6B0EthesqR-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="1135" as="sourcePoint" />
-            <mxPoint x="640" y="1130" as="targetPoint" />
+            <mxPoint x="640" y="1020" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="J-wKOYBQHU6B0EthesqR-25" value="同步cmp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="645" y="1099" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J-wKOYBQHU6B0EthesqR-27" value="WMS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J-wKOYBQHU6B0EthesqR-28" value="同步cmp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J-wKOYBQHU6B0EthesqR-29" value="ERP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="640" width="60" height="30" as="geometry" />
