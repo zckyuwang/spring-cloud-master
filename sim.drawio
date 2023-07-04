@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T06:49:22.433Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.125 Safari/537.36" etag="pNRO_V02Gvq9ZBlG4uWw" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T06:52:25.976Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.125 Safari/537.36" etag="OcoJE4pmNBPquDDaRH_u" version="21.3.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="sim">
     <mxGraphModel dx="788" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,8 +69,8 @@
         </mxCell>
         <mxCell id="J-wKOYBQHU6B0EthesqR-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="774.5" as="sourcePoint" />
-            <mxPoint x="230" y="774.5" as="targetPoint" />
+            <mxPoint x="150" y="774.5" as="sourcePoint" />
+            <mxPoint x="220" y="774.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J-wKOYBQHU6B0EthesqR-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -90,6 +90,18 @@
         </mxCell>
         <mxCell id="J-wKOYBQHU6B0EthesqR-25" value="同步cmp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="645" y="1099" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J-wKOYBQHU6B0EthesqR-27" value="WMS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J-wKOYBQHU6B0EthesqR-28" value="同步cmp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J-wKOYBQHU6B0EthesqR-29" value="ERP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J-wKOYBQHU6B0EthesqR-30" value="新建接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
