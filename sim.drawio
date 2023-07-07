@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T07:35:55.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gsxOwndnatRGRbp5n3XS" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T07:36:26.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="u8qX0H3b-N4egJkQU63a" version="21.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="sim">
     <mxGraphModel dx="794" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,14 +97,26 @@
         <mxCell id="J-wKOYBQHU6B0EthesqR-32" value="sim2cmpinterface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="880" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ix80bTB-D1Y86r64vLjH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ix80bTB-D1Y86r64vLjH-0" target="ix80bTB-D1Y86r64vLjH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ix80bTB-D1Y86r64vLjH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ix80bTB-D1Y86r64vLjH-0" target="ix80bTB-D1Y86r64vLjH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ix80bTB-D1Y86r64vLjH-0" value="触发/定时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ix80bTB-D1Y86r64vLjH-1" value="实时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="379" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ix80bTB-D1Y86r64vLjH-3" value="固定间隔，需要建立一个发送表记录已发送的记录。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ix80bTB-D1Y86r64vLjH-6" value="触发式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="448" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ix80bTB-D1Y86r64vLjH-7" value="定时任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="285" y="568" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
