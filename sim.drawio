@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T10:08:49.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="I5WusQN8C9FURzvRwAYz" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T10:09:13.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CsUHT0aUqJ1xqbJ4TrFI" version="21.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="sim">
     <mxGraphModel dx="794" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="J-wKOYBQHU6B0EthesqR-2" value="产成品入库" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="230" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J-wKOYBQHU6B0EthesqR-3" value="过滤物料" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="J-wKOYBQHU6B0EthesqR-3" value="sql过滤物料" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="470" y="760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J-wKOYBQHU6B0EthesqR-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
@@ -73,7 +73,7 @@
             <mxPoint x="464" y="784.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J-wKOYBQHU6B0EthesqR-23" value="过滤物料" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="J-wKOYBQHU6B0EthesqR-23" value="sql过滤物料" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="460" y="1089" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J-wKOYBQHU6B0EthesqR-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
@@ -94,8 +94,8 @@
         <mxCell id="J-wKOYBQHU6B0EthesqR-30" value="新建接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J-wKOYBQHU6B0EthesqR-32" value="sim2cmpinterface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="450" y="880" width="120" height="30" as="geometry" />
+        <mxCell id="J-wKOYBQHU6B0EthesqR-32" value="sim2cmpinterface/TASK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="435" y="880" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ix80bTB-D1Y86r64vLjH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ix80bTB-D1Y86r64vLjH-0" target="ix80bTB-D1Y86r64vLjH-1">
           <mxGeometry relative="1" as="geometry" />
