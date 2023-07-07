@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T07:36:26.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="u8qX0H3b-N4egJkQU63a" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T07:39:14.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="P2mVYUBhAnEZ4_fNnR9s" version="21.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="sim">
     <mxGraphModel dx="794" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,10 +106,16 @@
         <mxCell id="ix80bTB-D1Y86r64vLjH-0" value="触发/定时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ix80bTB-D1Y86r64vLjH-1" value="实时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ix80bTB-D1Y86r64vLjH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ix80bTB-D1Y86r64vLjH-1" target="ix80bTB-D1Y86r64vLjH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ix80bTB-D1Y86r64vLjH-1" value="实时，逻辑清晰，改动多" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="379" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ix80bTB-D1Y86r64vLjH-3" value="固定间隔，需要建立一个发送表记录已发送的记录。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ix80bTB-D1Y86r64vLjH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ix80bTB-D1Y86r64vLjH-3" target="ix80bTB-D1Y86r64vLjH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ix80bTB-D1Y86r64vLjH-3" value="非实时，固定间隔，需要建立一个发送表记录已发送的记录，需要筛选sql，改动少" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ix80bTB-D1Y86r64vLjH-6" value="触发式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -117,6 +123,12 @@
         </mxCell>
         <mxCell id="ix80bTB-D1Y86r64vLjH-7" value="定时任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="568" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ix80bTB-D1Y86r64vLjH-8" value="代码耦合较高，可以用切面方式解耦" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ix80bTB-D1Y86r64vLjH-12" value="耦合度低，好调整。独立业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
